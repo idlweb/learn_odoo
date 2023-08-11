@@ -1,2 +1,2 @@
 # learn_odoo
-exercise to learning odoo
+Ipotesi di progettazione partecipata e condivisa
